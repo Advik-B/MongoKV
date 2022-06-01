@@ -36,6 +36,21 @@ But Redis is not suitable for storing large amounts of data.
    - Use cloud storage providers (S3, mega, google drive, etc.) (Useful for large amounts of data at your cost)
    - Use FTP server
 
+## Technologies (that will be) Used
+
+   - [MongoDB](https://mongodb.com/)
+   - [C++](https://youtu.be/MNeX4EGtR5Y)
+   - [Qt](https://qt.io/)
+   - [Python](https://python.org/)
+   - [Django](https://djangoproject.com/)
+   - [HTML](https://en.wikipedia.org/wiki/HTML)
+   - [TailWindCSS](https://tailwindcss.com/)
+
+## Thanks
+   - [GitHub](https://GitHub.com) (Extra thanks for sponsoring my education)
+   - [Python](https://Python.org) Thank you for the great language that makes programming so much easier and fun.
+
+
 ## Authors
 
 - @Advik-B (advik.b@gmail.com)
